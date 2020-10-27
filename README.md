@@ -1,1 +1,1 @@
-# instago
+# Default installation for django
